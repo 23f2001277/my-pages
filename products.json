@@ -41,6 +41,10 @@
 "books": {
 "count": 2,
 "inventoryValue": 1275.71
+},
+"home": {
+"count": 6,
+"inventoryValue": 107523.36
 }
 }
 }
